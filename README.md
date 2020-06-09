@@ -1,16 +1,8 @@
 # fit247
 
-A new Fit 247 application.
+Nama : Dimas Prasetyo <br>
+NIM  : 20175520017
 
-## Getting Started
+## Sinopsis 
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Aplikasi yang akan saya buat ini bernama “fit247”, berisi halaman yang akan menampilkan video-video workout. Video tersebut dibagi menjadi dua kelompok berdasarkan gender/jenis kelamin. Terdiri dari dua halaman, pada halaman awal akan menampilkan Nama Instruktur yang berada pada video tersebut. Lalu saat di klik akan menampilkan video-video workout tersebut, kemudian saat video diklik akan meneruskan ke mobile browser pada device pengguna.
